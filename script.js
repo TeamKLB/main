@@ -25,10 +25,9 @@ $(document).ready(function() {
     strings: [
       "Discord",
       "Minecraft",
-      "WorldOfTanks Blitz",
       "Youtube",
       "TikTok",
-      "Twitter"
+      "Anarchy",
     ],
     typeSpeed: 120,
     backSpeed: 80,
