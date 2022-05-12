@@ -181,7 +181,7 @@ section .title::after {
 .features .title::after,
 
 .features .features-content, 
-.stats .stats-content {
+.links .links-content {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -221,11 +221,11 @@ section .title::after {
   color: #fff;
 }
 
-.stats {
+.links {
   font-family: 'Poppins', sans-serif;
   background: #fff;
 }
-.stats p {
+.links p {
   color: #fff;
   font-size: 18px;
 }
